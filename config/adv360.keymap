@@ -80,7 +80,7 @@
         layer_FPS {
             bindings = <
    &kp ESC  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5                &none      &none           &none   &none   &none          &none   &none   &none
-   &kp TAB         &kp T         &kp Q         &kp W         &kp E         &kp R                &mo 0      &none           &none   &none   &none          &none   &none   &none
+   &kp TAB         &kp T         &kp Q         &kp W         &kp E         &kp R               &trans      &none           &none   &none   &none          &none   &none   &none
   &kp CAPS         &kp G         &kp A         &kp S         &kp D         &kp F               &trans  &kp LCTRL        &kp LALT                          &none   &none   &none   &none   &none   &none   &none   &none   &none
  &kp LSHFT         &kp B         &kp Z         &kp X         &kp C         &kp V               &trans     &trans  &kp LEFT_SHIFT  &trans  &trans  &kp RIGHT_WIN  &trans  &trans   &none   &none   &none   &none   &none   &none
     &trans     &kp GRAVE         &none         &none         &none     &kp SPACE            &kp SPACE      &none           &none   &none   &none          &none   &none   &none   &none   &none
